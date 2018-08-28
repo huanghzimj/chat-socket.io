@@ -1,13 +1,20 @@
-# SKY
-nodejs-express+mongodb+redis+vue.js+bootstrap+layui+socketio 实现.
+## SKY
+ #一个仿qq聊天的软件，基于node.js socket.io ,聊天记录用 mysql保存实现.
 
 
 
-## 这是一个仿知乎论坛博客系统。
+## 这是基于socket.io的聊天系统。
 
-个人纯碎为了练习nodejs而做出来的一个系统，给个Star就是我最大的动力！
-
-
+个人纯碎为了练习nodejs+socket.io 而做出来的一个系统，给个Star就是我最大的动力！
+#
+```
+ 安装依赖  npm install 
+ 
+ # 启动mysql 
+ 
+ 
+ 
+```
 #### 首页
 
 ![](https://raw.githubusercontent.com/huanghzimj/Blog/master/demo/ford-img/index.png)
